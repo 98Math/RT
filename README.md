@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mathadelaide/RT_27_09_18/_apis/build/status/98Math.RT)](https://dev.azure.com/mathadelaide/RT_27_09_18/_build/latest?definitionId=7)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
